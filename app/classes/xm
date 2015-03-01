@@ -1,0 +1,122 @@
+<params name="autozone">
+    <path><![CDATA[http://localhost/XUMO_CONTENT/41_Autozone_2869/assets/]]></path>
+
+    <catalogItem>
+        <name>BATTERIES</name>
+        <order>0</order>
+        <trigger>clickBatteries</trigger>
+        <thumb>
+            <order>0</order>
+            <img>diagnose.jpg</img>
+            <text><![CDATA[Diagnose/Repair Dead Auto Batteries - AutoZone.com]]></text>
+            <trigger>diagnose.playVid</trigger>
+            <blurb><![CDATA[Learn how to diagnose and repair dead automobile batteries from Bruce Bonebrake, ASE Certified Master Auto Technician.]]></blurb>
+        </thumb>
+        <thumb>
+            <order>1</order>
+            <img>duralast.jpg</img>
+            <text><![CDATA[Duralast Auto Battery]]></text>
+            <trigger>duralastAuto.playVid</trigger>
+            <blurb><![CDATA[Duralast Battery from AutoZone is Proven Tough to provide rugged dependability you can count on.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>2</order>
+            <img>duralastGold.jpg</img>
+            <text><![CDATA[Duralast Platinum Auto Battery]]></text>
+            <trigger>duralastGold.playVid</trigger>
+            <blurb><![CDATA[Duralast platinum battery deliver maximum Cold Cranking Amps and Reserve Capacity.]]></blurb>
+
+        </thumb>
+    </catalogItem>
+
+    <catalogItem>
+        <order>1</order>
+        <name>STARTERS</name>
+        <trigger>clickStarters</trigger>
+        <thumb>
+            <order>0</order>
+            <img>diagnose.jpg</img>
+            <text><![CDATA[Replacing the Starter 2000 Silverado 4.3L Truck]]></text>
+            <trigger>diagnose.playVid</trigger>
+            <blurb><![CDATA[Replacing the starter in your vehicle is a relatively easy procedure that many people can do themselves. In this video I will demonstrate the basic removal and installation of a starter.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>1</order>
+            <img>duralast.jpg</img>
+            <text><![CDATA[When to Replace Your Starter]]></text>
+            <trigger>duralastAuto.playVid</trigger>
+            <blurb><![CDATA[Do you hear a clicking or grinding sound when you turn the key? Is your engine cranking slowly, or not at all? These are signs that you could have a problem with your starter.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>2</order>
+            <img>duralastGold.jpg</img>
+            <text><![CDATA[How to Replace Your Starter]]></text>
+            <trigger>duralastGold.playVid</trigger>
+            <blurb><![CDATA[Replacing the starter in your vehicle is a relatively easy procedure that many people can do themselves. In this video I will demonstrate the basic removal and installation of a starter]]></blurb>
+
+        </thumb>
+    </catalogItem>
+
+    <catalogItem>
+        <order>2</order>
+        <name>ALTERNATORS</name>
+        <trigger>clickAlternators</trigger>
+        <thumb>
+            <order>0</order>
+            <img>diagnose.jpg</img>
+            <text><![CDATA[How to Replace Your Alternator]]></text>
+            <trigger>diagnose.playVid</trigger>
+            <blurb><![CDATA[Replacing the alternator in your vehicle is a relatively easy procedure that many people can do themselves. In this video I will demonstrate the basic removal and installation of an alternator.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>1</order>
+            <img>duralast.jpg</img>
+            <text><![CDATA[When to Replace Your Alternator]]></text>
+            <trigger>duralastAuto.playVid</trigger>
+            <blurb><![CDATA[Does your engine crank slowly, battery seem weak, are there strange noises coming from under the hood? All these are possible signs that you could have a problem with your alternator.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>2</order>
+            <img>duralastGold.jpg</img>
+            <text><![CDATA[Choosing an Alternator - New or Remanufactured?]]></text>
+            <trigger>duralastGold.playVid</trigger>
+            <blurb><![CDATA[Know the differences between New and Rebuilt Alternators. AutoZone has you covered with great selection of Duralast and Duralast Gold Alternators.]]></blurb>
+
+        </thumb>
+    </catalogItem>
+
+    <catalogItem>
+        <order>3</order>
+        <name><![CDATA[SUSPENSION & STEERING]]></name>
+        <trigger>clickSuspension</trigger>
+        <thumb>
+            <order>0</order>
+            <img>diagnose.jpg</img>
+            <text><![CDATA[When to Replace your Shocks or Struts]]></text>
+            <trigger>diagnose.playVid</trigger>
+            <blurb><![CDATA[Bruce Bonebrake demonstrates a simple method of diagnosing failing shocks/struts.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>1</order>
+            <img>duralast.jpg</img>
+            <text><![CDATA[Gabriel Max Control Shock]]></text>
+            <trigger>duralastAuto.playVid</trigger>
+            <blurb><![CDATA[With a larger bore size that allows the shocks to react faster, the Gabriel® MaxControlTM shock provides a sports car like ride and handling on any SUV or light truck. Designed for light trucks, vans and SUVs, the monotube design provides quick, consistent control with no fade in performance.]]></blurb>
+
+        </thumb>
+        <thumb>
+            <order>2</order>
+            <img>duralastGold.jpg</img>
+            <text><![CDATA[Gabriel Pro Guard Shock]]></text>
+            <trigger>duralastGold.playVid</trigger>
+            <blurb><![CDATA[ProGuard Shocks are engineered to meet real-world demands for control and comfort with large-bore diameters and application-tuned valving. They’re also designed with greater oil volume to dissipate heat buildup under challenging driving conditions like rough roads or extensive cornering.]]></blurb>
+
+        </thumb>
+    </catalogItem>
+</params>
